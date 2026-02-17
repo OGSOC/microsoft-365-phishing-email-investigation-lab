@@ -1,0 +1,7 @@
+Received: from mail.microsoft-secure-login.com (45.83.112.19)
+SPF: Fail
+DKIM: None
+DMARC: Fail
+Return-Path: support@microsoft-secure-login.com
+Reply-To: security-alert@outlook-verification.net
+Message-ID: <982734928734@microsoft-secure-login.com>
