@@ -6,7 +6,7 @@ This project simulates a SOC investigation into a reported phishing email within
 
 The objective was to:
 
-- Analyze email headers
+- Analyse email headers
 - Identify sender spoofing
 - Evaluate malicious indicators
 - Assess user impact
