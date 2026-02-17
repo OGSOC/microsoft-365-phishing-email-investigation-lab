@@ -1,0 +1,5 @@
+Total Recipients: 12
+Link Clicks: 3
+Credential Submissions: 1
+Delivery Status: Delivered to Inbox
+Spam Filter Verdict: Allowed
